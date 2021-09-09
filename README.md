@@ -1,0 +1,2 @@
+# basic-web
+responsive yok
